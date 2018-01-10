@@ -12,3 +12,9 @@ $ docker run -it --rm -p 4000:4000 zhouzhou606/hexo
 ``` bash
 $ docker run -it --rm -p 4000:4000 -v volume:/blog/source/_posts zhouzhou606/hexo
 ```
+
+###### Creating volume by using [this](https://github.com/zhouzhou606/hexo-volume.git)
+``` bash
+$ docker run -it --rm -v post:/target vhexo
+
+``` 
