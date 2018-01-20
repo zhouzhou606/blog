@@ -1,5 +1,5 @@
 ## Quick Summary
-More summary could see [here](https://www.dwheeler.com/essays/filenames-in-shell.html).
+[Here](https://www.dwheeler.com/essays/filenames-in-shell.html) is more summary.
 
 ``` bash
  # Correct portable glob use: use "for" loop, prefix glob, check for existence:
