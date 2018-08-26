@@ -1,3 +1,9 @@
+---
+title: How to get correct filename in Shell
+date: 2017-11-15 23:19:32
+tags:
+---
+
 ## Quick Summary
 [Here](https://www.dwheeler.com/essays/filenames-in-shell.html) is more summary.
 
